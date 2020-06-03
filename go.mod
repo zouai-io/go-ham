@@ -1,4 +1,4 @@
-module gitlab.com/ozouai/ham
+module gopkg.zouai.io/ham
 
 go 1.13
 
