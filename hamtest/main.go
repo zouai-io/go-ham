@@ -2,7 +2,7 @@ package main
 
 import (
 	"context"
-	"gitlab.com/ozouai/ham"
+	"gopkg.zouai.io/ham"
 	"log"
 )
 
